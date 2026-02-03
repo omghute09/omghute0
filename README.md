@@ -6,7 +6,8 @@ A passionate data analyst✅
 
 💫 I’m currently learning SQL, Python, Excel,Power-Bi
 
-My projects are Cafe Sales Analysis, Tools used- pandas,matplotlib
+My projects are Cafe Sales Analysis, Pizza Sales Analysis < Bookstore Analysis Using SQL And more 
+
 
 💬 Ask me about I am data analyst
 
