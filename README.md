@@ -4,7 +4,8 @@ Hi 👋, I'm Om Nandkishor Ghute
 
 A passionate data analyst✅
 
-💫 I’m currently learning SQL, Python, Excel,Power-Bi
+💫 I’m skilled in SQL, Python, Excel,Power-Bi
+
 
 My projects are Cafe Sales Analysis, Pizza Sales Analysis and Bookstore Analysis Using SQL And more 
 
